@@ -25,35 +25,7 @@ ye<!doctype html>
 
 
   
-  <style>
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-
-*{
-    font-family: 'Open Sans', sans-serif;
-}
-
-
-.bannerBgImage{
-    height: 100vh;
-    background: url("/images/laptop banner image.jpg");
-    background-size: cover;
-    position: relative;
-}
-.bannerText{
-    text-align: right;
-    position: absolute;
-    top:50%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    color:white;
-}
-.bannerTitle{
-    font-size: 4rem;
-}
-.bannerDesc{
-    font-size:2rem;
-}
+  
 
 
    
