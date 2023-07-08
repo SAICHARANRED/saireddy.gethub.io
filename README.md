@@ -56,31 +56,11 @@
 
 
 
-.card{
-    cursor: pointer;
-}
 
-.card:hover{
-    background-color: #d87093;
-    border: 2px solid #9acd32;
-}
-.bIcon{
-   width: 100%;
-   text-align: center;
-   font-size: 40px;
-}
-   .img-fluid:hover{
-    border: 4px solid yellowgreen;
-   }
-
-   .card-img-top{
-    height: 50vh;
-   }
 
 
 
     
-  </style>
 
 </head>
 
@@ -102,7 +82,7 @@
 
           <div class="collapse navbar-collapse" id="navbarNav">
 
-            <ul class="navbar-nav ms-auto">
+          <ul class="navbar-nav ms-auto">
 
               <li class="nav-item">
 
