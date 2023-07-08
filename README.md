@@ -29,27 +29,9 @@
 
 
    
-/*  skills start */ 
-.skills{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .skill {
-    background-color:wheat;
-    color: #333;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 5px;
-  }
 
 
 
-
-
-/* slills end */
 
 
 
